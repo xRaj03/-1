@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Doru03
+- 👋 Hi, I’m @xrj_03
 - 👀 I’m interested in CP
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
 - 📫 Email : rajbff03@gmail.com
 
 <!---
